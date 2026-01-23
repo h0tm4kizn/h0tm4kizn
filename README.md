@@ -14,9 +14,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="maki-zenin-power.gif">
-  <source media="(prefers-color-scheme: light)" srcset="maki-zenin-power.gif">
-  <img src="maki-zenin-power.gif" width="100%" alt="Maki Zenin Power">
+  <source media="(prefers-color-scheme: dark)" srcset="maki-zenin-aura-power.gif">
+  <source media="(prefers-color-scheme: light)" srcset="maki-zenin-aura-power.gif">
+  <img src="maki-zenin-aura-power.gif" width="100%" alt="Maki Zenin Power">
 </picture>
 
 </div>
@@ -35,6 +35,12 @@ Passionate developer specializing in **Full-Stack Web Development**, **WordPress
 
 ## PHYSICAL PROWESS
 When I step away from tech, I focus on Muay Thai, the gym, dance, and travel to fuel my creativity and well-being.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="maki-zenin-aura-punch.gif">
+  <source media="(prefers-color-scheme: light)" srcset="maki-zenin-aura-punch.gif">
+  <img src="maki-zenin-aura-punch.gif" width="100%" alt="Maki Zenin Aura Punch">
+</picture>
 
 ---
 
