@@ -2,7 +2,7 @@
 
 # Hello, I am Ren!
 
-**Full Stack Developer | WordPress & SEO Specialist | Freelancer**
+**Aspiring Full Stack Developer | WordPress & SEO Specialist | Freelancer**
 
 *"From Blueprints to Code: Transitioning from Civil Engineering to IT to build high-performance web architectures."*
 
