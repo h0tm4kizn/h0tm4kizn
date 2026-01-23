@@ -1,29 +1,34 @@
-<h1 align="center">Hi 👋, I'm Ren</h1>
-<h3 align="center">WordPress Designer | SEO Specialist | IT Student</h3>
-
----
-
-### 🌍 About Me  
-👩‍💻 I’m **Ren** — passionate about **WordPress design, SEO, and programming**.  
-📊 Currently learning **Data Analytics, Python, and SQL** to blend design with insights.  
-⚡ Fun fact: Founder of [KodeCraze.com](https://kodecraze.com/)  
-
----
-
-### 🚀 Languages I Know  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-</div>
+
+# Hello, I am Ren!
+
+**Full Stack Developer | WordPress & SEO Specialist | Freelancer**
+
+*"From Blueprints to Code: Transitioning from Civil Engineering to IT to build high-performance web architectures."*
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0077B5?style=for-the-badge&logo=react&logoColor=white)](https://renlenon.kodecraze.com)
+[![Community Hub](https://img.shields.io/badge/Join_Community_Hub-FF4500?style=for-the-badge&logo=discourse&logoColor=white)](https://renlenon.kodecraze.com/community)
 
 ---
 
-### 📬 Connect with Me  
-<p align="center">
-  <a href="mailto:rblenon18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/renielyn-lenon-237449376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## Tech Stack
+
+| Category | Technologies |
+|:--------:|:------------|
+| **Frontend** | HTML • CSS • JavaScript • Blade • Tailwind CSS • Vite • Figma • Framer |
+| **Backend** | PHP (Laravel) • Python • Node.js • C |
+| **Database** | MySQL • PostgreSQL • Supabase |
+| **AI Systems** | Gemini AI API • Prompt Engineering • LLM Orchestration • AI-Driven Content |
+| **CMS & Marketing** | WordPress • Technical SEO • Google Search Console • Google Analytics • AdSense • MailChimp |
+| **Data Analysis** | SQL • Python • Data Visualization • Advanced Excel |
+| **Dev Tools** | Git • GitHub • VS Code • Composer • npm |
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-lenon-237449376/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rblenon18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://renlenon.kodecraze.com)
+
+</div>
