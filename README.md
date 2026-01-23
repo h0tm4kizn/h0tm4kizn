@@ -88,17 +88,11 @@ When I step away from tech, I focus on Muay Thai, the gym, dance, and travel to 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=h0tch1l1&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&bg_color=00000000">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=h0tch1l1&color=3B82F6&line=3B82F6&point=3B82F6&area=true&hide_border=true&bg_color=ffffff">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h0tch1l1&color=3B82F6&line=3B82F6&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h0tch1l1&color=3B82F6&line=3B82F6&area=true" width="100%" alt="Cursed Energy Tracker">
 </picture>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=h0tch1l1&theme=dark&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=h0tch1l1&theme=high-contrast&background=ffffff&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6">
-    <img src="https://streak-stats.demolab.com?user=h0tch1l1&theme=dark&background=00000000&ring=3B82F6&fire=3B82F6" alt="GitHub Streak Stats">
-  </picture>
-  <br/><br/>
   <sub>Designed & Built by Ren Lenon • 2026</sub>
 </div>
