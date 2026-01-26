@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-333333?style=for-the-badge&logoColor=white)](https://renlenon.kodecraze.com) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-lenon-237449376/) [![GitHub](https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tch1l1)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-333333?style=for-the-badge&logoColor=white)](https://renlenon.kodecraze.com) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-lenon-237449376/) [![GitHub](https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn)
 
 <br/>
 
@@ -79,16 +79,16 @@ When I step away from tech, I focus on Muay Thai, the gym, dance, and travel to 
 ---
 
 ## CONNECT
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@onlyrenbl) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tch1l1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-lenon-237449376/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@onlyrenbl) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-lenon-237449376/)
 
 ---
 
 ## CURSED ENERGY TRACKER
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=h0tch1l1&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=h0tch1l1&color=3B82F6&line=3B82F6&point=3B82F6&area=true&hide_border=true&bg_color=ffffff">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h0tch1l1&color=3B82F6&line=3B82F6&area=true" width="100%" alt="Cursed Energy Tracker">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=h0tm4kizn&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=h0tm4kizn&color=3B82F6&line=3B82F6&point=3B82F6&area=true&hide_border=true&bg_color=ffffff">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h0tm4kizn&color=3B82F6&line=3B82F6&area=true" width="100%" alt="Cursed Energy Tracker">
 </picture>
 
 <br/>
