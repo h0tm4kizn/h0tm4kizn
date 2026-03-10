@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I am Renielyn Lenon!
-### ASPIRING FULL STACK DEVELOPER | WORDPRESS & SEO | IT STUDENT FREELANCER
+### ASPITING FULL-STACK DEV | LARAVEL & WORDPRESS | UI/UX · SEO | IT STUDENT FREELANCER
 
 <br/>
 
@@ -24,7 +24,7 @@
 ---
 
 ## HEAVENLY RESTRICTION
-Passionate developer specializing in **Full-Stack Web Development**, **WordPress Ecosystems**, **SEO Optimization**, and **UI/UX Design**. I build dynamic, user-focused applications while helping businesses grow their online presence through strategic SEO and specialized marketing solutions.
+Passionate developer specializing in **Full-Stack Web Development**, **Laravel**, **WordPress Ecosystems**, **SEO Optimization**, and **UI/UX Design**. I build dynamic, user-focused applications while helping businesses grow their online presence through strategic SEO and specialized marketing solutions.
 
 <br/>
 
