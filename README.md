@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-121212?style=for-the-badge&logoColor=white)](https://renlenon.kodecraze.com) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-lenon-237449376/) [![GitHub](https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-121212?style=for-the-badge&logoColor=white)](https://renlenon.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-lenon-237449376/) [![GitHub](https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn)
 
 <br/>
 
@@ -29,7 +29,7 @@ Freelance Web Developer specializing in Laravel and WordPress, based in San Juan
 <br/>
 
 > [!IMPORTANT]
-> Step into my digital forge and explore my latest work at **[renlenon.kodecraze.com](https://renlenon.kodecraze.com/)**. Ready to build something legendary? **[Let's talk](https://renlenon.kodecraze.com/contact)**.
+> Step into my digital forge and explore my latest **[projects](https://renlenon.vercel.app/projects)**. Ready to build something legendary? **[Let's talk](https://renlenon.vercel.app/)**.
 
 <br/>
 
