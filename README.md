@@ -80,16 +80,24 @@ Outside of coding, you'll usually find me training Muay Thai, lifting at the gym
 
 ## CURSED ENERGY TRACKER
 
+<div align="center">
+
+<sub><i>Training arc logs, commit by commit.</i></sub>
+
+<br/>
+<br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=h0tm4kizn&color=EDEDED&line=EDEDED&point=FFFFFF&area=true&hide_border=true&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=h0tm4kizn&color=121212&line=121212&point=121212&area=true&hide_border=true&bg_color=ffffff">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h0tm4kizn&color=121212&line=121212&area=true" width="100%" alt="Cursed Energy Tracker">
+  <source media="(prefers-color-scheme: dark)" srcset="https://renlenon.vercel.app/api/github-contributions-svg?year=2026&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://renlenon.vercel.app/api/github-contributions-svg?year=2026&theme=light">
+  <img src="https://renlenon.vercel.app/api/github-contributions-svg?year=2026&theme=light" width="100%" alt="2026 GitHub contribution graph for h0tm4kizn">
 </picture>
 
 <br/>
+<br/>
 
-<div align="center">
-  <sub><i>Repetition until it becomes technique.</i></sub>
-  <br/>
-  <sub><b>Renielyn Lenon</b> · Still sharpening · San Juan City, PH</sub>
+<sub><i>Repetition until it becomes technique.</i></sub>
+<br/>
+<sub>Renielyn Lenon · Still sharpening · San Juan City, PH</sub>
+
 </div>
