@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hi, I am Renielyn 'REN' Lenon!
-### FREELANCE WEB DEVELOPER — LARAVEL & WORDPRESS
+### FULL-STACK WEB DEVELOPER
+### Laravel • React • WordPress
 
 <br/>
 
@@ -24,7 +25,7 @@
 ---
 
 ## HEAVENLY RESTRICTION
-Freelance Web Developer specializing in Laravel and WordPress, based in San Juan City, bridging structural engineering logic with clean code, AI systems, and digital strategy. I approach development through the lens of structural engineering—blueprinting resilient, high-performance applications while helping businesses scale through data-driven SEO and specialized digital solutions.
+I'm a Full-Stack Web Developer based in San Juan City, Philippines, with a background in Civil Engineering that shaped how I approach software development. I enjoy designing well-structured applications, building with Laravel, React, and WordPress, and integrating AI-powered solutions that solve real business problems. Whether I'm developing client websites or architecting full-stack systems, I focus on writing clean, maintainable code that lasts.
 
 <br/>
 
@@ -34,7 +35,7 @@ Freelance Web Developer specializing in Laravel and WordPress, based in San Juan
 <br/>
 
 ## PHYSICAL PROWESS
-When I step away from tech, I focus on Muay Thai, the gym, dance, and travel to fuel my creativity and well-being.
+Outside of coding, you'll usually find me training Muay Thai, lifting at the gym, dancing, or exploring new places. Staying active helps me recharge and approach problems with a fresh perspective.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="maki-zenin-aura-punch.gif">
@@ -48,7 +49,7 @@ When I step away from tech, I focus on Muay Thai, the gym, dance, and travel to 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,tailwind,vite,figma,php,python,c,mysql,postgres,supabase,wordpress,git,github,vscode,npm&theme=dark&perline=10" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,tailwind,vite,figma,php,python,rust,c,mysql,postgres,supabase,wordpress,git,github,vscode,npm&theme=dark&perline=10" alt="Tech Stack" />
 
 </div>
 
@@ -58,7 +59,7 @@ When I step away from tech, I focus on Muay Thai, the gym, dance, and travel to 
 
 **ALSO IN THE ARSENAL**
 <br/>
-<sub>Cobol · Framer · SEO · Google Analytics · Google AdSense · Google Search Console · Google My Business · Gemini AI · Prompt Engineering · MailChimp · Composer</sub>
+<sub>COBOL · Tauri · Rust · Technical SEO · Google Analytics 4 · Google Search Console · Google Business Profile · Google AdSense · Gemini API · OpenAI API · Groq API · Prompt Engineering · Mailchimp · Composer</sub>
 
 </div>
 
@@ -67,13 +68,13 @@ When I step away from tech, I focus on Muay Thai, the gym, dance, and travel to 
 ---
 
 <div align="center">
-  <h3>"Heavenly Restriction isn't a curse. It's my freedom" - Maki Zenin</h3>
+  <h3>"Everything is working out for me because I make it happen."</h3>
 </div>
 
 ---
 
 ## CONNECT
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-lenon-237449376/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-blenon/)
 
 ---
 
@@ -88,7 +89,7 @@ When I step away from tech, I focus on Muay Thai, the gym, dance, and travel to 
 <br/>
 
 <div align="center">
-  <sub><i>Callback to "repetition until it becomes technique"</i></sub>
+  <sub><i>Repetition until it becomes technique.</i></sub>
   <br/>
   <sub><b>Renielyn Lenon</b> · Still sharpening · San Juan City, PH</sub>
 </div>
