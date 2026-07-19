@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I am Renielyn 'REN' Lenon!
+# Hi, I'm Renielyn "Ren" Lenon.
 ### FULL-STACK WEB DEVELOPER
 ### Laravel • React • WordPress
 
