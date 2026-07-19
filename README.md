@@ -74,24 +74,18 @@ Outside of coding, you'll usually find me training Muay Thai, lifting at the gym
 ---
 
 ## CONNECT
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-blenon/)
-
----
-
-## CURSED ENERGY TRACKER
 
 <div align="center">
 
-<sub><i>Training arc logs, commit by commit.</i></sub>
+<sub><i>Open to full-stack builds, Laravel/WordPress work, and practical web systems.</i></sub>
 
 <br/>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://renlenon.vercel.app/api/github-contributions-svg?year=2026&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://renlenon.vercel.app/api/github-contributions-svg?year=2026&theme=light">
-  <img src="https://renlenon.vercel.app/api/github-contributions-svg?year=2026&theme=light" width="100%" alt="2026 GitHub contribution graph for h0tm4kizn">
-</picture>
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logoColor=white)](https://renlenon.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-blenon/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rblenon18@gmail.com)
 
 <br/>
 <br/>
